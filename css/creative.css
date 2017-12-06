@@ -215,11 +215,15 @@ header.masthead {
   font-family: 'Raleway', 'Open Sans', 'Helvetica Neue', Arial, sans-serif; }
 
 .btn-xl {
-  padding: 1rem 2rem; }
+  padding: 1rem 2rem;
+    background-color: black !important;
+    border-color: black !important;
+
+}
 
 .btn-primary {
-  background-color: #F05F40;
-  border-color: #F05F40; }
+  background-color: #000;
+  border-color: #000; }
   .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
     color: #fff;
     background-color: #ee4b28 !important; }
